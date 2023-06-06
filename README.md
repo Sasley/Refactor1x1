@@ -8,5 +8,6 @@ The title is updated with a description
 The first block linked added id tag so when you tap on it you goes to the bottom of screen as all the other icons.
 The image elements have alt attributes
 I learned that I did not ask enough questions and to use different resources.
+Added media queries to modify the appearance and behavior of website.
 I used YouTube, w3, w3 accessibility, and tutoring.
 This project is an attempt to satisfy all clients requests.
